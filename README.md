@@ -1,7 +1,6 @@
 
 <a name="readme-top"></a>
-![screencapture-localhost-3000-2023-10-07-20_40_29](https://github.com/AjroudiRida/Monsters-rolodex/assets/114816909/1ff972aa-e503-41b5-a30f-f5a222ca8220)
-
+![screencapture-localhost-3000-2023-10-07-20_40_29](https://github.com/AjroudiRida/Monsters-rolodex/assets/114816909/8a850db3-933a-4edc-b204-324d2b7f03ee)
 
 # 📗 Table of Contents
 
